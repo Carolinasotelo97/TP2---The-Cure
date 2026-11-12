@@ -1,0 +1,8 @@
+Navegadores de prueba
+El sitio se probó en Google Chrome (versión actual) abriendo los HTML con doble clic, sin servidor.
+
+Notas:
+- shape-outside, column-count, filter y las transiciones/animaciones son CSS3 y funcionan en Chrome, Firefox y Edge actuales.
+- El cursor personalizado (púa de guitarra en los vínculos) es un PNG de 32x32; si un navegador no lo carga, muestra la manito por defecto.
+- Los reproductores de Spotify y Google Maps necesitan conexión a internet.
+- Los vínculos externos se abren en otra pestaña (target="_blank").
